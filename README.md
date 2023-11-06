@@ -1,3 +1,8 @@
+# 志伟分布
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kressety/yzw-distribution/main?labpath=main.ipynb)
+
+
 # 理解问题  
 
 > *让客流量随机分配在一年中的12个月里，但需要保证某几个月的客流量为0，而另外的几个月里客流量要显著高于其他的月份。*  
